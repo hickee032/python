@@ -43,4 +43,7 @@
     function
     list_ dictionary
 ---    
-## 3.crawling(크롤링) 
+## 3.crawling(크롤링)
+
+    beautifulsoup (뷰티풀 수프)
+    selenium (셀레리움)
