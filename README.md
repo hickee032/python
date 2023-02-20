@@ -8,5 +8,9 @@
 
 ---
 ## 1.syntax (구문, 문법)
+
+##### Controlstatement (제어문)<br>
+##### DataType (데이터 타입)<br>
+##### IO (입출력)<br>
 ---
 ## Exercise
