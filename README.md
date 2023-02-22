@@ -12,6 +12,8 @@
   
   6.[big_data(빅데이터)](6.big_data(빅데이터))<br>
   
+  7.[mathematics_theory(기초수학)](7.mathematics_theory(기초수학))<br>
+  
   [sample_data(데이터_샘플)](sample_data(데이터_샘플))<br>
 
 ---
@@ -49,5 +51,7 @@
 ## 5.data_analysis(데이터_분석)
 ---    
 ## 6.big_data(빅데이터)
+---    
+## 7.mathematics_theory(기초수학)
 ---    
 ## sample_data(데이터_샘플)
